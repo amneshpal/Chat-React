@@ -5,6 +5,19 @@ JavaScript chat app. Using React.js, Socket.io and Node.js. Layout using Materia
 
 # Live Demo👉 https://youtu.be/GOXwmda9O9U ❣
 
+# Frontend:
+
+HTML5  CSS3  JavaScript  React  React Router  Chakra UI 
+
+# Backend:
+
+Node JS  HTML   Socket.io 
+
+# Database:
+N/A
+
+# Deployed On:
+heroku
 
 # Setup
 npm install then-> npm start (from /server and /app dirs)
@@ -18,3 +31,54 @@ users from one company cannot see/chat with users from other company
 first 4 users from company A and rest 4 belongs to company B
 default chatroom/channel where all users of a company is listening
 handled multiple tab for same user
+
+
+# ⚡️ Features
+
+ . Real time communication is supported using Socket.io
+ . Fully Responsive UI
+ . User authentication using email with Login as well as Logout feature.
+ . Passwords are encrypted.
+ . Toast notifications for user actions.
+ . Users can create group chat.
+ 
+ 
+ 
+ # 📖 Prerequisites
+ 
+In order to run the project you need node and npm installed on your machine.
+
+
+
+# 🚩 Getting Started
+
+1. Clone the bitchat repository:
+git clone https://github.com/rtewari056/bitchat.git
+2. Navigate into repo:
+cd bitchat
+4. Install package dependencies:
+npm install # Server dependencies
+cd client
+npm install # Client dependencies
+
+# Run project:
+In the root directory, open two terminal sessions and run both commands separately:
+
+npm run client
+npm run server
+
+
+# Open your browser and go to http://localhost:3000
+
+👤 Developer
+Amnesh pal
+
+📬 Contact
+If you want to contact me, you can reach me through below handles.
+amneshpal016@gmail.com
+7668775454
+LinkedIn Gmail Twitter
+
+
+
+Show your support by 🌟 the project
