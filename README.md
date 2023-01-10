@@ -6,7 +6,7 @@ JavaScript chat app. Using React.js, Socket.io and Node.js. Layout using Materia
 # Live Demo👉 https://youtu.be/GOXwmda9O9U ❣
 
 
-HTML5  CSS3  JavaScript  React  React Router  Chakra UI 
+HTML5  CSS3  JavaScript  React  React Router. 
 
 Backend:
 
@@ -94,20 +94,15 @@ npm run server
 # 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
-   amneshpal016@gmail.com
-   7668775454
+        
+        . amneshpal016@gmail.com
+        . 7668775454
+
+
+📁 Project structure
 
 ![image](https://user-images.githubusercontent.com/88304047/211584599-1466dd01-e728-40ba-827f-4961ae813be1.png)
 ![image](https://user-images.githubusercontent.com/88304047/211584913-0c51a78e-5018-48bd-b64b-571679a4adb3.png)
-
-
-
-
-
-
-
-
-
 
 
 
