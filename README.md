@@ -4,20 +4,20 @@ Simple chat (with chat room)
 JavaScript chat app. Using React.js, Socket.io and Node.js. Layout using Material UI. No database, everything readonly.
 
 # Live Demo👉 https://youtu.be/GOXwmda9O9U ❣
+# ![image](https://user-images.githubusercontent.com/88304047/211587343-51a7eba1-8c59-4441-8e08-9410c4b7e3f8.png)
+
+# ![image](https://user-images.githubusercontent.com/88304047/211587931-b263af66-6438-479b-8bee-cf8b9f0b4292.png)
+
 
 
 HTML5  CSS3  JavaScript  React  React Router. 
 
 Backend:
 
-Node JS  HTML5  JWT  Socket.io 
+Node JS  HTML CSS  Socket.io 
 
 Database:
 N/A
-
-Deployed On:
-
-DigitalOcean
 
 
 # Frontend:
