@@ -5,6 +5,22 @@ JavaScript chat app. Using React.js, Socket.io and Node.js. Layout using Materia
 
 # Live Demo👉 https://youtu.be/GOXwmda9O9U ❣
 
+
+HTML5  CSS3  JavaScript  React  React Router  Chakra UI 
+
+Backend:
+
+Node JS  HTML5  JWT  Socket.io 
+
+Database:
+
+MongoDB 
+
+Deployed On:
+
+DigitalOcean
+
+
 # Frontend:
 
 HTML5  CSS3  JavaScript  React  React Router  Chakra UI 
@@ -19,8 +35,11 @@ N/A
 # Deployed On:
 heroku
 
+
 # Setup
 npm install then-> npm start (from /server and /app dirs)
+
+
 
 # Summary
 shows online users
@@ -52,14 +71,12 @@ In order to run the project you need node and npm installed on your machine.
 
 # 🚩 Getting Started
 
-1. Clone the bitchat repository:
-git clone https://github.com/rtewari056/bitchat.git
-2. Navigate into repo:
-cd bitchat
-4. Install package dependencies:
+ Install package dependencies:
 npm install # Server dependencies
 cd client
 npm install # Client dependencies
+
+
 
 # Run project:
 In the root directory, open two terminal sessions and run both commands separately:
