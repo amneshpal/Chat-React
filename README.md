@@ -13,8 +13,7 @@ Backend:
 Node JS  HTML5  JWT  Socket.io 
 
 Database:
-
-MongoDB 
+N/A
 
 Deployed On:
 
@@ -85,17 +84,18 @@ npm run client
 npm run server
 
 
-# Open your browser and go to http://localhost:3000
+# Open your browser
 
-👤 Developer
-Amnesh pal
 
-📬 Contact
+# 👤 Developer
+
+    Amnesh pal😎
+
+# 📬 Contact
+
 If you want to contact me, you can reach me through below handles.
-amneshpal016@gmail.com
-7668775454
-LinkedIn Gmail Twitter
-
+   amneshpal016@gmail.com
+   7668775454
 
 
 Show your support by 🌟 the project
